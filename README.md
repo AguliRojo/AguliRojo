@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Django REST based project
+- 🌱 I’m currently learning about Data prediction and Forensics
+- 🤔 I’m looking for help with career guidelines. Shallow waters, but broad perpective
+- 📫 How to reach me: Mail, Linkedin, Phone
