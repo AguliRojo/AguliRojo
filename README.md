@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on sotck forecasting thesis
-- 🌱 I’m currently learning about Docker, Kubernetes, Cloud
-- 🤔 I’m looking for help with career route.
+- 🔭 I’m currently working on stock forecasting thesis
+- 🌱 I’m currently learning about Docker, Integration services, Postman
+- 🤔 I’m looking for help with career route. 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bartosz-miniszewski-a25b0915a//"><img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg width="30px"/></a>
 
 ## 🧰 Languages and Tools
