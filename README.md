@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on automation tools
-- 🌱 I’m currently learning about Docker, Machine Learning, Clean code
+- 🔭 I’m currently working on building a porfolio
+- 🌱 I’m currently learning about Docker, Angular, Jenkins
 - 🤔 I’m looking for help with career route. 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bartosz-miniszewski-a25b0915a//"><img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg width="30px"/></a>
-- Some projects using tech stack listed here are unlisted, as they are very minimalistic mvp's, but i can share them if required. 
+- Some projects using tech stack listed here are unlisted, as they are very minimalistic mvp's, but i can share them if required, some of them include, blog website, sudoku solver, solved problems from competitions
 
 ## 🧰 Languages and Tools
 
