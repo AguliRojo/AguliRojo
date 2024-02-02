@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# This profile will be soon restructured. Rewriting projects and creating new ones (February 2023)
+
 - 🔭 I’m currently working on building a porfolio
 - 🌱 I’m currently learning about Docker, Angular, Jenkins
 - 🤔 I’m looking for help with career route. 
