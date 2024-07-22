@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about DevOps tools, and Bakcend through projects
 - 🤔 I’m looking for broadening my horizonts.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bartosz-miniszewski-a25b0915a//"><img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg width="30px"/></a>
-- 
 
 ## 🧰 Languages and Tools
 
