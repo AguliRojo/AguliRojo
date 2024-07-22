@@ -14,21 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# This profile will be soon restructured. Rewriting projects and creating new ones (February 2023)
+# Previously coder, became project maintainer and service desk specialist, its time to get back to coding
 
-- 🔭 I’m currently working on building a porfolio
-- 🌱 I’m currently learning about Docker, Angular, Jenkins
-- 🤔 I’m looking for help with career route. 
+- 🔭 I’m currently discovering how to make my own portfolio (Next.js)
+- 🌱 I’m currently learning about DevOps tools, and Bakcend through projects
+- 🤔 I’m looking for broadening my horizonts.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/bartosz-miniszewski-a25b0915a//"><img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg width="30px"/></a>
-- Some projects using tech stack listed here are unlisted, as they are very minimalistic mvp's, but i can share them if required, some of them include, blog website, sudoku solver, solved problems from competitions
+- 
 
 ## 🧰 Languages and Tools
 
 <!-- https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg -->
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<!--
+<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" alt="Selenium" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 <img align="left" alt="Pytest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
 <img align="left" alt="PGSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -36,12 +37,12 @@ Here are some ideas to get you started:
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-<!--
+
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
--->
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+-->
 <img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 <br />
 
